@@ -18,6 +18,7 @@ Si accedes por a un Servidor acuerdate de introducir "ssh -X  user@Dirección"
 Para Descargar el paquete de instalación copia la siguiente linea en una terminal " wget https://github.com/yomarmejia/Erios-Project/raw/master/Erios-Project.zip "
 
 Puedes Descomprimir el contenido con la linea " unzip Erios-Project.zip " y colocalo en la Carpeta "Home" del S.O.
+En una terminal ejecuta " cd ~/Erios-Project && chmod +x erios.sh  && ./erios.sh "
 
 Si deseas realizar la instalación con Servicio DDNS debes utilizar el Script de Instalación 'Erios-Project-DDNS.sh'
 Si deseas realizar la instalación con Servidor VPS debes  utilizar el Script de Instalación 'Erios-Project-VPS.sh'
