@@ -10,7 +10,7 @@ Este proyecto esta desarrollado para funcionar con un servicio DDNS o con un ser
 
 El Servicio DDNS -  (Puede ser el de menos seguridad ya que alguien con conocimientos puede acceder a los dispositivos de nuestra Red Interna.)
 
-El Servidor VPS - (No es necesario abrir los puertos de nuestro Router para poder acceder al Streaming, creando una cuenta con un proveedor VPS 'AMAZON AWS, Google, AZUNA...' )
+El Servidor VPS - (No es necesario abrir los puertos de nuestro Router para poder acceder al Streaming, creando una cuenta con un proveedor VPS 'AMAZON AWS, Google, AZURE...' )
 
 La instalació y configuración son practicamente automatizados.
 
