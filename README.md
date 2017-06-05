@@ -23,4 +23,3 @@ En una terminal ejecuta " cd ~/Erios-Project && chmod +x erios.sh  && sudo ./eri
 Si deseas realizar la instalación con Servicio DDNS debes utilizar el Script de Instalación 'Erios-Project-DDNS.sh'
 Si deseas realizar la instalación con Servidor VPS debes  utilizar el Script de Instalación 'Erios-Project-VPS.sh'
 
-A
