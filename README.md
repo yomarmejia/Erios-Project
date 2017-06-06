@@ -27,3 +27,8 @@ Ejecuta en una terminal --> " cd ~/Erios-Project && sudo ./Erios-Project-DDNS.sh
 Si deseas realizar la instalación con Servidor VPS debes  utilizar el Script de Instalación 'Erios-Project-VPS.sh'.
 
 Ejecuta en una terminal --> " cd ~/Erios-Project && sudo ./Erios-Project-VPS.sh ".
+
+Si haz realizado la instalación con configuración VPS tendras que completarla con la instalación del Script 'Server-VPS.sh'.
+
+Desde una terminal dentro del Servidor VPS ejecuta la siguiente linea: " wget https://github.com/yomarmejia/Erios-Project/raw/master/Erios-Project.zip && unzip Erios-Project.zip && cd ~/Erios-Project && chmod +x *.sh && ./Server-VPS.sh ".
+
