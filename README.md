@@ -14,7 +14,7 @@ El <strong>Servidor VPS</strong> - (No es necesario abrir los puertos de nuestro
 
 La instalació y configuración son practicamente automaticos a exepción de datos de configuración individuales.
 
-Si accedes por a un Servidor acuerdate de introducir "<strong><em> ssh -X  user@Dirección </em></strong>"
+Si accedes mediante ssh en Linux acuerdate de introducir "<strong><em> ssh -X  user@Dirección </em></strong>"
 Para Descargar el paquete de instalación copia la siguiente linea en una terminal "<strong><em> wget https://github.com/yomarmejia/Erios-Project/raw/master/Erios-Project.zip </em></strong> " 
 
 Puedes Descomprimir el contenido con la linea " unzip Erios-Project.zip " y colocalo en la Carpeta "Home" del S.O.
