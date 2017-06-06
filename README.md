@@ -31,4 +31,4 @@ Desde una terminal dentro del Servidor VPS ejecuta la siguiente linea: "<strong>
 
 <strong> Muchas gracias por probar nuestro producto, cualquier sugerencia o fallo que encuentres durantes o después de la instalación estaremos agradecidos que nos lo facilites enviandonos un Email a la dirección " videoalarmaraspberry@gmail.com " .</strong>
 
-<strong> Gracias Nuevamente , que lo disfrutes </strong> 
+<strong> Gracias Nuevamente , y que lo disfrutes </strong> 
