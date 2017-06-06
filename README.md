@@ -1,5 +1,5 @@
 # Erios-Project
-Erios Project, es un projecto a nivel escolar. Cual ha sido desarrollado para crear una central de videovigilnacia basada en S.O Linux y principalmente creada para que funcione en Raspbian.
+<strong>Erios Project</strong>, es un projecto a nivel escolar. Cual ha sido desarrollado para crear una central de videovigilnacia basada en S.O Linux y principalmente creada para que funcione en Raspbian.
 Este sistema de Videovigilancia consisten en utilizar una RASPBERRY o una placa de desarrollo con sistema operativo y conectado a una WebCam crear una pequeña central casera de VideoSeguridad.
 
 Aquí el funcionamiento sera el Siguiente:
